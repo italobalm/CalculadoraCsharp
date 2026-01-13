@@ -1,0 +1,16 @@
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\bin\Debug\net10.0-windows\meuprimeiroprojeto.exe
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\bin\Debug\net10.0-windows\meuprimeiroprojeto.deps.json
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\bin\Debug\net10.0-windows\meuprimeiroprojeto.runtimeconfig.json
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\bin\Debug\net10.0-windows\meuprimeiroprojeto.dll
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\bin\Debug\net10.0-windows\meuprimeiroprojeto.pdb
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net10.0-windows\meuprimeiroprojeto.Form1.resources
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net10.0-windows\meuprimeiroprojeto.csproj.GenerateResource.cache
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net10.0-windows\meuprimeiroprojeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net10.0-windows\meuprimeiroprojeto.AssemblyInfoInputs.cache
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net10.0-windows\meuprimeiroprojeto.AssemblyInfo.cs
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net10.0-windows\meuprimeiroprojeto.csproj.CoreCompileInputs.cache
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net10.0-windows\meuprimeiroprojeto.dll
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net10.0-windows\refint\meuprimeiroprojeto.dll
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net10.0-windows\meuprimeiroprojeto.pdb
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net10.0-windows\meuprimeiroprojeto.genruntimeconfig.cache
+C:\Users\itmelo\Downloads\C#\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net10.0-windows\ref\meuprimeiroprojeto.dll
